@@ -1,0 +1,9 @@
+{
+  "execution_time": "0:00:46.112934",
+  "total_articles_processed": 942,
+  "articles_with_predictions": 942,
+  "unique_suppliers_identified": 7,
+  "models_trained": 4,
+  "visualizations_generated": true,
+  "results_generated": true
+}

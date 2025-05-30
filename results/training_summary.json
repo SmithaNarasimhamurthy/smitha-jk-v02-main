@@ -1,0 +1,60 @@
+{
+  "training_samples": 690,
+  "features_count": 5010,
+  "risk_category_results": {
+    "random_forest": {
+      "overall_f1": 0.6463282603097482,
+      "category_metrics": {
+        "geopolitical_regulatory": 0.6835443037974683,
+        "agricultural_environmental": 0.5909090909090909,
+        "financial_operational": 0.935483870967742,
+        "supply_chain_logistics": 0.07999999999999999,
+        "market_competitive": 0.9417040358744394
+      }
+    },
+    "xgboost": {
+      "overall_f1": 0.8773192451689387,
+      "category_metrics": {
+        "geopolitical_regulatory": 0.896551724137931,
+        "agricultural_environmental": 0.847457627118644,
+        "financial_operational": 0.9265536723163842,
+        "supply_chain_logistics": 0.761904761904762,
+        "market_competitive": 0.9541284403669725
+      }
+    },
+    "logistic_regression": {
+      "overall_f1": 0.6886727763323508,
+      "category_metrics": {
+        "geopolitical_regulatory": 0.7179487179487181,
+        "agricultural_environmental": 0.46808510638297873,
+        "financial_operational": 0.9297297297297298,
+        "supply_chain_logistics": 0.36363636363636365,
+        "market_competitive": 0.9639639639639639
+      }
+    },
+    "lightgbm": {
+      "overall_f1": 0.8601886778023189,
+      "category_metrics": {
+        "geopolitical_regulatory": 0.9176470588235294,
+        "agricultural_environmental": 0.8214285714285715,
+        "financial_operational": 0.9325842696629213,
+        "supply_chain_logistics": 0.6666666666666667,
+        "market_competitive": 0.9626168224299065
+      }
+    }
+  },
+  "risk_direction_results": {
+    "random_forest": {
+      "f1_score": 0.8610238606932276
+    },
+    "xgboost": {
+      "f1_score": 0.8537397967682826
+    },
+    "logistic_regression": {
+      "f1_score": 0.8610238606932276
+    },
+    "lightgbm": {
+      "f1_score": 0.8777677682423782
+    }
+  }
+}

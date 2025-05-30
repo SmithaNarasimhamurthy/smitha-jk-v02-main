@@ -1,0 +1,62 @@
+{
+  "geopolitical_regulatory": {
+    "mean_score": 0.3532534032721369,
+    "std_score": 1.434342308920739,
+    "max_score": 30.764705882352942,
+    "min_score": 0.0,
+    "articles_above_threshold": "340",
+    "top_suppliers": {
+      "Arvind Limited": 0.1865004066142586,
+      "Teejay Lanka PLC": 0.1694373401534527,
+      "Welspun Living Limited": 0.16666666666666666
+    }
+  },
+  "agricultural_environmental": {
+    "mean_score": 0.2283704883227176,
+    "std_score": 1.025934741975491,
+    "max_score": 19.5,
+    "min_score": 0.0,
+    "articles_above_threshold": "214",
+    "top_suppliers": {
+      "Arvind Limited": 0.34274193548387094,
+      "Interloop Limited": 0.25806451612903225,
+      "Welspun Living Limited": 0.1766304347826087
+    }
+  },
+  "financial_operational": {
+    "mean_score": 0.42668914699637817,
+    "std_score": 0.9870970033626998,
+    "max_score": 16.0,
+    "min_score": 0.0,
+    "articles_above_threshold": "587",
+    "top_suppliers": {
+      "Arvind Limited": 0.5058281377066955,
+      "Welspun Living Limited": 0.4356351236146633,
+      "Teejay Lanka PLC": 0.3951406649616368
+    }
+  },
+  "supply_chain_logistics": {
+    "mean_score": 0.1075978161965423,
+    "std_score": 0.6392306232254902,
+    "max_score": 16.142857142857142,
+    "min_score": 0.0,
+    "articles_above_threshold": "146",
+    "top_suppliers": {
+      "Caleres, Inc.": 0.12165178571428571,
+      "Arvind Limited": 0.09019091507570769,
+      "Teejay Lanka PLC": 0.06055900621118012
+    }
+  },
+  "market_competitive": {
+    "mean_score": 0.6155785562632696,
+    "std_score": 1.1678942430734363,
+    "max_score": 14.5625,
+    "min_score": 0.0,
+    "articles_above_threshold": "646",
+    "top_suppliers": {
+      "Caleres, Inc.": 1.2861328125,
+      "Mint Velvet": 1.25,
+      "Arvind Limited": 0.9032258064516129
+    }
+  }
+}

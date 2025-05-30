@@ -1,0 +1,22 @@
+{
+  "total_articles": 942,
+  "articles_with_suppliers": "690",
+  "unique_suppliers": 7,
+  "date_range": {
+    "start": "2002-12-24 08:00:00+00:00",
+    "end": "2025-02-05 20:37:18+00:00"
+  },
+  "risk_direction_distribution": {
+    "negative": 833,
+    "positive": 109
+  },
+  "supplier_distribution": {
+    "Arvind Limited": 217,
+    "Welspun Living Limited": 138,
+    "Interloop Limited": 93,
+    "Teejay Lanka PLC": 92,
+    "White Stuff Limited": 85,
+    "Caleres, Inc.": 64,
+    "Mint Velvet": 1
+  }
+}

@@ -1,0 +1,8 @@
+supplier,geopolitical_regulatory_mean,geopolitical_regulatory_std,geopolitical_regulatory_count,agricultural_environmental_mean,agricultural_environmental_std,agricultural_environmental_count,financial_operational_mean,financial_operational_std,financial_operational_count,supply_chain_logistics_mean,supply_chain_logistics_std,supply_chain_logistics_count,market_competitive_mean,market_competitive_std,market_competitive_count,risk_direction_<lambda>,published_date_min,published_date_max,overall_risk_score,risk_rank
+Arvind Limited,0.1865,0.355,217,0.3427,1.4603,217,0.5058,0.6268,217,0.0902,0.3419,217,0.9032,1.5331,217,0.1429,2002-12-24 08:00:00+00:00,2025-02-05 16:12:02+00:00,2.0284000000000004,1.0
+"Caleres, Inc.",0.1268,0.2494,64,0.0146,0.0428,64,0.2619,0.3818,64,0.1217,0.2918,64,1.2861,1.8695,64,0.1719,2016-11-22 08:00:00+00:00,2025-02-05 20:37:18+00:00,1.8111000000000002,2.0
+Interloop Limited,0.0917,0.1885,93,0.2581,0.4607,93,0.2366,0.2792,93,0.0538,0.1339,93,0.1983,0.2573,93,0.043,2018-04-25 22:38:08+00:00,2025-01-27 08:00:00+00:00,0.8385,6.0
+Mint Velvet,0.0,,1,0.0625,,1,0.1176,,1,0.0,,1,1.25,,1,0.0,2024-03-04 08:00:00+00:00,2024-03-04 08:00:00+00:00,1.4301,3.0
+Teejay Lanka PLC,0.1694,0.2225,92,0.1685,0.3935,92,0.3951,0.3867,92,0.0606,0.1105,92,0.3628,0.4255,92,0.0435,2015-06-30 07:00:00+00:00,2025-02-04 12:02:32+00:00,1.1564,5.0
+Welspun Living Limited,0.1667,0.4266,138,0.1766,0.5635,138,0.4356,0.9199,138,0.0424,0.099,138,0.5684,1.0797,138,0.0435,2014-07-04 06:58:17+00:00,2025-02-04 06:35:01+00:00,1.3897,4.0
+White Stuff Limited,0.0104,0.0243,85,0.0449,0.211,85,0.0775,0.0991,85,0.0059,0.0275,85,0.5662,0.4392,85,0.1059,2010-12-16 08:00:00+00:00,2025-02-03 11:48:23+00:00,0.7049000000000001,7.0
